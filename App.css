@@ -1,0 +1,63 @@
+#heading{
+  padding: 0;
+  font-family:'Times New Roman', Times, serif;
+  background-color:white;
+}
+#title{
+     padding-top: 0;
+     margin-top: 3;
+     font-size: 220%;
+     color:rgba(0, 0, 255, 0.95);
+}
+#dapp{
+     padding-top:0;
+     margin-top: -3%;
+     margin-left: 15%;
+     color:rgba(0, 0, 255, 0.95);
+}
+#full{
+  background-color:rgba(25, 25, 112, 0.718);
+}
+
+#manuproduct{
+  display:flex;
+  margin: 1%;
+}
+#manu{
+  background-color:  lightblue;
+  padding: 4%;
+  
+}
+#product{
+  background-color: lightblue;
+  padding: 4%;
+}
+#retailer{
+  background-color:lightblue;
+  padding: 4%;
+}
+#customer{
+  background-color:lightblue;
+  padding: 4%;
+  margin: 1%;
+}
+#fake{
+  margin-top: 2%;
+  padding: 4%;
+  text-align: center;
+  background-color:lightblue;
+  margin: 1%;
+}
+#cf{
+   font-size: 330%;
+   margin-top: 1%;
+}
+#pid{
+   margin-left: 2%;
+}
+#sno{
+   margin-left: 4%;
+}
+#click{
+   font-size: 130%;
+}
